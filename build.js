@@ -8,7 +8,7 @@ const version = require('./package.json').version;
 const banner =
 `/*!
  * perfect-scrollbar v${version}
- * (c) ${new Date().getFullYear()} Hyunje Jun
+ * (c) ${new Date().getFullYear()} Sergeyb
  * @license MIT
  */`;
 
